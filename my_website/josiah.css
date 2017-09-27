@@ -1,0 +1,83 @@
+2.1.2 Website with CSS
+2.1.2 Website with CSS
+
+
+Adam Elwer
+10:56 AM
+Add class comment
+Create a CSS for your website and implement to GitHub
+-Choose a topic to explore on W3School
+-If you would like, use my CSS as a template
+-remember to add this code to your head on all your websites
+<link rel="stylesheet" href="yourfilename.css">
+
+W3.CSS Intro
+https://www.w3schools.com/w3css/w3css_intro.asp
+
+mrelwer.css
+Style Sheet
+Your work
+NOT DONE
+Files you add or create can be viewed and edited by your teacher
+Mark as done or attach work to turn in
+ADD
+CREATE
+MARK AS DONE
+
+Add private comment…
+
+body{
+	background-color:#000000;
+	font-family: "Avant Garde", Avantgarde, "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
+	color: #ffffcc;
+	background-image: url("images/city.jpg");
+	background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+
+h1 {
+	font-size: 1.3em;
+	text-align: center;
+}
+a:link, a:visited {
+    background-color: #105268;
+    color: white;
+    padding: 10px 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+
+
+a:hover, a:active {
+    color: yellow;
+    background-color: blue;
+}
+
+table {
+	
+	width:80%;
+	margin-left: 2px;
+	margin-right: 2px;
+	text-align: center;
+	
+
+}
+
+td {
+	vertical-align: middle;
+}
+
+tr {
+	border: 1px solid #ffffff;
+	text-align: center;
+	background-color:#9FB6CD; 
+}
+
+th {
+	text-align: center;
+	color: #ffffff;
+	background-color: #003366;
+}
+mrelwer.css
+Displaying mrelwer.css.
