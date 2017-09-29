@@ -1,36 +1,10 @@
-2.1.2 Website with CSS
-2.1.2 Website with CSS
 
-
-Adam Elwer
-10:56 AM
-Add class comment
-Create a CSS for your website and implement to GitHub
--Choose a topic to explore on W3School
--If you would like, use my CSS as a template
--remember to add this code to your head on all your websites
-<link rel="stylesheet" href="yourfilename.css">
-
-W3.CSS Intro
-https://www.w3schools.com/w3css/w3css_intro.asp
-
-mrelwer.css
-Style Sheet
-Your work
-NOT DONE
-Files you add or create can be viewed and edited by your teacher
-Mark as done or attach work to turn in
-ADD
-CREATE
-MARK AS DONE
-
-Add private comment…
 
 body{
-	background-color:#000000;
-	font-family: "Avant Garde", Avantgarde, "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
+	background-color:grey;
+	font-family: "roboto", consolas, "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
 	color: #ffffcc;
-	background-image: url("images/city.jpg");
+	background-image: none;
 	background-size: 100% 100%;
     background-repeat: no-repeat;
 }
