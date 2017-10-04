@@ -3,22 +3,22 @@
 body{
 	background-color:grey;
 	font-family: "roboto", consolas, "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
-	color: #ffffcc;
+	color: white;
 	background-image: none;
 	background-size: 100% 100%;
     background-repeat: no-repeat;
 }
 
 h1 {
-	font-size: 1.3em;
+	font-size: 8em;
 	text-align: center;
+	font-family: "Impact", "Helvetica";
 }
 a:link, a:visited {
-    background-color: #105268;
+    background-color: teal;
     color: white;
     padding: 10px 10px;
     text-align: center;
-    text-decoration: none;
     display: inline-block;
 }
 
@@ -45,7 +45,7 @@ td {
 tr {
 	border: 1px solid #ffffff;
 	text-align: center;
-	background-color:#9FB6CD; 
+	background-color:#00C8FA; 
 }
 
 th {
