@@ -1,0 +1,37 @@
+place,exits,items
+freshman hallway,TJs;Powers;Pauls;Hernandez;Gs;sophmore hallway;junior hallway;STEAM lab;gym;gate,
+sophmore hallway,Dos;Eldriges;Conners;Gs;Uenos;Iacabonis;elevator;Macs;Carrols;Burns office;copy room;Mullens;bathroom;freshman hallway;senior hallway;STEAM lab;gym;gate,
+junior hallway,Zs;Fredericks;Blairs;freshman hallway;senior hallway;STEAM lab;gym;gate,
+senior hallway,Schwankls;Argos;Ortegas;Hawes;teachers lounge;front desk;councelors office;sports office;Soffes;bathroom;sophmore hallway;junior hallway;elevator;STEAM lab;gym;gate,
+Powers,freshman hallway,
+Pauls,freshman hallway,A very heavy book on theology
+Hernandez,freshman hallway,
+Dos,sophmore hallway,
+Uenos,sophmore hallway,
+elevator,sophmore hallway;senior hallway,
+Carrols,sophmore hallway,
+Mullens,sophmore hallway,
+Fredericks,junior hallway,
+Ortegas,senior hallway,
+Hawes,senior hallway,
+front desk,senior hallway,
+councelors office,senior hallway,
+sports office,senior hallway,the gym key
+Soffes,senior hallway,
+STEAM lab,freshman hallway;sophmore hallway;junior hallway;senior hallway;gate,Mr Elwer's ID
+gym,freshman hallway;sophmore hallway;junior hallway;senior hallway;gate,Burns office key
+TJs,freshman hallway,
+Gs,freshman hallway;sophmore hallway,
+Conners,sophmore hallway,
+Eldriges,sophmore hallway,
+Iacabonis,sophmore hallway,
+Macs,sophmore hallway,a half filled iced americano
+Burns office,sophmore hallway,
+copy room,sophmore hallway,
+bathroom,senior hallway;sophmore hallway,a chewed piece of gum
+Zs,junior hallway,hydrochloric acid
+Blairs,junior hallway,
+Schwankls,senior hallway,
+Argos,senior hallway,a monster drink
+teachers lounge,senior hallway,a riddle
+gate,senior hallway;sophmore hallway;junior hallway;senior hallway;STEAM lab;gym;outside,
